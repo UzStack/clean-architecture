@@ -1,0 +1,19 @@
+[book]
+title = "Clean Architecture"
+authors = ["Team"]
+language = "ru"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "book"
+create-missing = true
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+no-section-label = false
+mathjax-support = false
+copy-fonts = true
+git-repository-url = "https://github.com/your-org/clean-architecture"
+site-url = "/"

@@ -1,0 +1,1 @@
+# Nimadan boshlash kerak

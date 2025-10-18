@@ -44,15 +44,47 @@
    - Mocking va Stubbing
    - Test Coverage va Best Practices
 
-### 🚀 Qo'shimcha Mavzular (Keyingi bosqichda)
-
-6. **Database Design va Optimization**
-7. **Performance Optimization**
-8. **Security Best Practices**
-9. **Microservices Architecture**
-10. **System Design**
-11. **DevOps va CI/CD**
-12. **Leadership va Mentoring**
+6. **[System Design](./06-system-design.md)** - 655+ qator
+   - Scalability va Load Balancing
+   - Caching Strategies
+   - Database Sharding
+   - Message Queue va Microservices
+   - Real System Design masalalari (Instagram)
+   
+7. **[Performance Optimization](./07-performance-optimization.md)** - 700+ qator
+   - Database Optimization (Indexing, Query)
+   - Application-Level Caching
+   - Async/Await Best Practices
+   - Object Pooling
+   - Frontend va Network Optimization
+   
+8. **[Security Best Practices](./08-security.md)** - 900+ qator
+   - OWASP Top 10
+   - Authentication va Authorization
+   - Encryption va Hashing
+   - API Security
+   - Security Checklist
+   
+9. **[DevOps & CI/CD](./09-devops-cicd.md)** - 650+ qator
+   - Git Workflow
+   - GitHub Actions
+   - Docker va Docker Compose
+   - Kubernetes
+   - Infrastructure as Code (Terraform, Ansible)
+   
+10. **[Soft Skills](./10-soft-skills.md)** - 580+ qator
+    - Communication Skills
+    - Leadership va Mentoring
+    - Time Management
+    - Problem Solving
+    - Interview Skills
+    
+11. **[Real Projects](./11-real-projects.md)** - 800+ qator
+    - E-Commerce Platform (To'liq implementatsiya)
+    - Social Media Clone
+    - Task Management System
+    - Streaming Platform
+    - Best Practices Summary
 
 ---
 
@@ -88,9 +120,11 @@ Middle Developer
       ↓
    [2 oy]    → DDD + Testing
       ↓
+   [1 oy]    → System Design
+      ↓
    [1-2 oy]  → Performance + Security
       ↓
-   [2-3 oy]  → System Design + Real Projects
+   [1-2 oy]  → DevOps + Soft Skills
       ↓
 Senior Developer
 ```
@@ -168,12 +202,14 @@ Bu qo'llanmani tugatsangiz:
 
 ## 📊 Qo'llanma Statistikasi
 
-- **Jami qatorlar:** 5000+
-- **Kod misollari:** 200+
-- **Real loyiha misollari:** 15+
-- **Amaliy mashqlar:** 30+
-- **Taxminiy o'qish vaqti:** 40-50 soat
-- **Amaliyot vaqti:** 200-300 soat
+- **Bo'limlar:** 11 ta to'liq bo'lim
+- **Jami qatorlar:** 9800+
+- **Kod misollari:** 450+
+- **Real loyiha misollari:** 30+
+- **Amaliy mashqlar:** 60+
+- **Taxminiy o'qish vaqti:** 100-120 soat
+- **Amaliyot vaqti:** 400-500 soat
+- **To'liq o'rganish:** 6-10 oy
 
 ---
 
@@ -187,15 +223,46 @@ Tayyor bo'lsangiz, birinchi bo'limdan boshlang:
 
 ## ✨ Muallifdan
 
-Ushbu qo'llanma o'zbek tilida yozilgan eng to'liq software engineering qo'llanmalaridan biri. Barcha mavzular amaliy tajriba va real loyihalar asosida yozilgan.
+Ushbu qo'llanma o'zbek tilida yozilgan **eng to'liq va professional** software engineering qo'llanmalaridan biri. 
 
-Muvaffaqiyatlar tilayman!
+**Nima maxsus:**
+- 📖 11 ta to'liq bo'lim
+- 💻 450+ amaliy kod misollari
+- 🎯 30+ real loyiha namunalari
+- ✅ 60+ amaliy mashqlar
+- 🚀 6-10 oyda senior darajaga chiqish yo'li
+
+Barcha mavzular **amaliy tajriba** va **real loyihalar** asosida yozilgan.
+
+**Bu qo'llanma sizga:**
+- Middle dan Senior darajaga chiqishda yordam beradi
+- Real interview'larga tayyorlaydi
+- Professional kod yozishni o'rgatadi
+- Career growth'ingizni tezlashtiradi
+
+Muvaffaqiyatlar tilayman! 🎓
 
 ---
 
-## 📞 Feedback
+## 📞 Feedback va Savol-Javob
 
-Agar savol yoki takliflaringiz bo'lsa, bemalol yozing. Birgalikda o'rganamiz! 🎓
+Agar savol yoki takliflaringiz bo'lsa:
+- 💬 Issue oching
+- 📧 Email yuboring
+- 🤝 Community'ga qo'shiling
+
+**Eslatma:** Birgalikda o'rganamiz, birgalikda o'samiz! 
+
+---
+
+## 🌟 Qo'shimcha Ma'lumot
+
+Qo'llanmadan maksimal foyda olish uchun:
+1. 📝 [SUMMARY.md](./SUMMARY.md) - To'liq xulosa va keyingi qadamlar
+2. 📅 [LEARNING-PATH.md](./LEARNING-PATH.md) - 10 haftalik batafsil reja
+3. 🚀 Har kuni 1-2 soat o'rganing
+4. 💻 Ko'proq kod yozing
+5. 🤝 Junior'larga yordam bering
 
 ---
 

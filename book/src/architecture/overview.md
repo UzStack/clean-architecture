@@ -1,0 +1,1 @@
+# Arxitektura tuzilishi
